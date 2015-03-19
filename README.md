@@ -1,2 +1,3 @@
 # hello-world
 just have a try
+I am senior student form China Agricultural University and I mayor in biological science.Now I am working on my graduation paper.In my research,I want to know what is the origin of human language but I am too sick of lab work...Anyway I read this charpter in <<Primate Communication and Human Language Vocalisation, gestures, imitation and deixis in humans and non-humans>> using Bayesian Robot Programming to prove that deixis may be the origin of language.I want to build my paper on this work but I am kind of a new player of writting codes.So I heard form my buddy that GitHub is wonderful place for a desperate nerd to regain faith in his own intellegence since there are a lot of kindness given by programmer around the Earth!
